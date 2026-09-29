@@ -1,3 +1,4 @@
+![CI](https://github.com/vineetpanwar10/python-api-docker-cicd/actions/workflows/ci.yml/badge.svg)
 # Python API - Docker & CI/CD
 
 A small Task REST API built with Python and FastAPI.
